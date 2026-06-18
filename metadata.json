@@ -1,0 +1,6 @@
+{
+  "name": "TTGT Operations Dashboard",
+  "description": "Enterprise-grade SaaS Operations Dashboard for managing seller stores, inventory, orders, returns, and client health at scale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
